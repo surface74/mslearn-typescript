@@ -40,14 +40,11 @@ if (ukCitizen) {
    it to have strongly typed variables. Then, address any errors you find so that the result
    returned to a is 12. */
 
-enum num {
-  five = 5,
-}
-let x: num;
+let x: number;
 let y: number;
 let a: number;
 
-x = num.five;
+x = 5;
 y = 7;
 a = x + y;
 

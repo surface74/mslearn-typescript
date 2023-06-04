@@ -2,11 +2,11 @@
 
 You can use the TypeScript [Playground](https://www.typescriptlang.org/play), Visual Studio Code, or any TypeScript-compatible IDE to complete the labs in the "Developing JavaScript applications using TypeScript" [LINK TO the Developing JavaScript applications using TypeScript] learning path.
 
-The **start** and **end** solutions for each lab are located in the **code** folder. In each lab, you will be provided with a link to each folder, as appropriate, for easy access. 
+The **start** and **end** solutions for each lab are located in the **code** folder. In each lab, you will be provided with a link to each folder, as appropriate, for easy access.
 
 ### Setup Visual Studio Code
 
-If you want to use Visual Studio Code to run any of the **start** or **end** solution workspaces in the **code** folder, you must first set up your development environment. 
+If you want to use Visual Studio Code to run any of the **start** or **end** solution workspaces in the **code** folder, you must first set up your development environment.
 
 Install the following software on your machine:
 
@@ -19,3 +19,6 @@ For best results, follow the complete instructions for setting up your environme
 ### Playground
 
 If you’re using the Playground, you can copy and paste the start code from the Lab instructions into the editor. The solution to the lab exercises will be located in the **end** folder in the **module##.ts** file, which you can open in any text editor.
+
+
+// TOSTART: https://learn.microsoft.com/en-us/training/modules/typescript-generics/5-implement-generics-custom-types-classes
